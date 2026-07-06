@@ -19,7 +19,7 @@ Chief Financial Officer
 - Implemented procedures and controls to prepare company for the company's first audit. 
 
 **VENMINDER** (acquired by Ncontracts August 2024), Hybrid, 2016–2025  
-SaaS, Vendor Risk Management, Data Analysis, & Services  
+*SaaS, Vendor Risk Management, Data Analysis, & Services*  
 Chief Accounting Officer 2021-2025  
 Chief Financial Officer 2016-2021  
 
@@ -35,7 +35,7 @@ Chief Financial Officer 2016-2021
 - Recruited after a $4 million series B financing round led by Bain Capital Ventures to lead finance and accounting 
 
 **DISMAS CHARITIES**, Louisville, Kentucky 2013–2015  
-<i>Residential Re-entry Real Estate, Property Management, and Services  
+*Residential Re-entry Real Estate, Property Management, and Services*  
 Chief Financial Officer  
 
 - Led accounting and finance at this national company with over 30 residential re-entry facilities 
@@ -49,7 +49,7 @@ Chief Financial Officer
 - Achieved closure of two DOL claims and one IRS investigation that had been ongoing for several years
 
 **DONAN ENGINEERING**, Louisville, Kentucky 2004 – 2013  
-<i>Professional Services, Forensic Engineering, and Fire Investigation  
+*Professional Services, Forensic Engineering, and Fire Investigation*  
 Chief Financial Officer 2008 – 2013  
 Controller 2004-2008  
 
