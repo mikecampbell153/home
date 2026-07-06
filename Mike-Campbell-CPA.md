@@ -1,16 +1,15 @@
+## MIKE CAMPBELL, CPA  
+**MIKECAMPBELLCPA@OUTLOOK.COM**   
+**LINKEDIN.COM/IN/MIKECAMPBELLCPA**   
 
-## <center>MIKE CAMPBELL, CPA</center> 
-**<center>MIKECAMPBELLCPA@OUTLOOK.COM**  
-**LINKEDIN.COM/IN/MIKECAMPBELLCPA</center>**   
+### EXECUTIVE SUMMARY  
 
-### EXECUTIVE SUMMARY:  
+Finance and Accounting Professional with over 30 years overseeing general ledger, budgeting and forecasting, financial planning, accounts receivable, accounts payable, and payroll. Trusted advisor and true business partner to management, leading the performance of financial strategic planning, and operations, coupled with an innate ability to build strong relationships. Forward-thinking leadership with strength in audits, compliance, corporate finance, information technology, risk management, for multiple industries including professional services, manufacturing, technology, insurance, healthcare, and SaaS. Experienced in Excel, Sage 100, Sage Intelligence Reporting, PowerBI, DAX, SQL, ASP.NET, HTML, NetSuite, Salesforce, Microsoft Dynamics NAV, Jet Reports, Deltek Vision, and Pro Systems fx Tax and Audit.  
 
-Finance and Accounting Professional with over 30 years overseeing general ledger, budgeting and forecasting, financial planning, accounts receivable, accounts payable, and payroll. Trusted advisor and true business partner to management, leading the performance of financial strategic planning, and operations, coupled with an innate ability to build strong relationships. Forward-thinking leadership with strength in audits, compliance, corporate finance, information technology, risk management, for multiple industries including professional services, manufacturing, technology, insurance, healthcare, and SaaS. Experienced in Excel, Sage 100, Sage Intelligence Reporting, PowerBI, DAX, SQL, ASP.NET, HTML, NetSuite, Salesforce, Microsoft Dynamics NAV, Jet Reports, Deltek Vision, and Pro Systems fx Tax and Audit.</p>
+### PROFESSIONAL EXPERIENCE  
 
-### PROFESSIONAL EXPERIENCE
-
-**MILLS SUPPLY & SUBSIDIARIES**, Louisville, Kentucky, 2025 – Present  
-<i>Steel Rebar Fabrication, Transportation, Real Estate Holdings</i>  
+**MILLS SUPPLY & SUBSIDIARIES**, Louisville, Kentucky, 2025–Present  
+<i>Steel Rebar Fabrication, Transportation, Real Estate Holdings</i>   
 Chief Financial Officer  
 
 - Mills Supply is a second-generation family-owned business with $90 million annual revenue. 
@@ -19,8 +18,8 @@ Chief Financial Officer
 - Performed monthly bank reconciliations, intercompany, prepaid insurance, payroll, and depreciation journal entries. 
 - Implemented procedures and controls to prepare company for the company's first audit. 
 
-**VENMINDER** (acquired by Ncontracts August 2024), Hybrid, 2016 –2025  
-<i>SaaS, Vendor Risk Management, Data Analysis, & Services</i>  
+**VENMINDER** (acquired by Ncontracts August 2024), Hybrid, 2016–2025  
+SaaS, Vendor Risk Management, Data Analysis, & Services  
 Chief Accounting Officer 2021-2025  
 Chief Financial Officer 2016-2021  
 
@@ -35,8 +34,8 @@ Chief Financial Officer 2016-2021
 - Developed a dynamic 5-year forecasting model with sensitivity analysis based on projected growth rates 
 - Recruited after a $4 million series B financing round led by Bain Capital Ventures to lead finance and accounting 
 
-**DISMAS CHARITIES**, Louisville, Kentucky 2013 – 2015 
-<i>Residential Re-entry Real Estate, Property Management, and Services</i>  
+**DISMAS CHARITIES**, Louisville, Kentucky 2013–2015  
+<i>Residential Re-entry Real Estate, Property Management, and Services  
 Chief Financial Officer  
 
 - Led accounting and finance at this national company with over 30 residential re-entry facilities 
@@ -50,7 +49,7 @@ Chief Financial Officer
 - Achieved closure of two DOL claims and one IRS investigation that had been ongoing for several years
 
 **DONAN ENGINEERING**, Louisville, Kentucky 2004 – 2013  
-<i>Professional Services, Forensic Engineering, and Fire Investigation</i>
+<i>Professional Services, Forensic Engineering, and Fire Investigation  
 Chief Financial Officer 2008 – 2013  
 Controller 2004-2008  
 
@@ -62,9 +61,10 @@ Controller 2004-2008
 - Developed and deployed interactive and dynamic reports providing real time insight into the financial and operational health and direction of the company to corporate leadership using combination of ASP.net and Tableau
 - Implemented and managed private cloud ERP on Deltek Vision platform that consolidated MS Access project management, MAS90 Accounting, and Time Tracking software
 
-**MATHER & CO, CPAS**, Louisville, Kentucky 1997 – 2004   
+**MATHER & CO, CPAS**, Louisville, Kentucky 1997–2004   
 Audit Manager & IT Consultant 2000-2004  
-Senior Accountant 1997-1999  
+Senior Accountant 1997-1999
+  
 - Effectively managed financial statement audits, 401(k) audits, and tax returns for dozen companies with up to $50 million in revenues specializing in manufacturing and insurance industries 
 - Led the provision of tax consulting and tax return preparation for clients that included S-corporations, C-Corporations, Partnerships, and Individuals in manufacturing, insurance, and non-profit industries
 - Contributed additional service and expertise providing implementation and technical support to address and resolve issues relating to MAS 90 accounting, FAS Fixed Assets, Crystal Reports, and QuickBooks software
@@ -72,9 +72,9 @@ Senior Accountant 1997-1999
 - Directed the efforts of a high performing team of eight staff accountants and administrative staff
 - Served as a trusted advisor and subject matter expert, providing guidance and direction for GAAP and governmental fund accounting, including implementation of GASB 34 for three public school districts 
 
-**ERNST & YOUNG**, Louisville, Kentucky 1994 – 1997  
+**ERNST & YOUNG**, Louisville, Kentucky 1994–1997  
 Senior Accountant 1996-1997  
-Staff Accountant 1994-1996
+Staff Accountant 1994-1996  
 
 - Fulfilled a critical role coordinating and executing independent audits of 15 healthcare providers of all sizes, from small nonprofit medical centers to enterprise organizations with $250 million in revenue
 - Served as the designer of innovative and effective audit strategies and programs; supervised staff accountants while coordinating client managers and stakeholders
@@ -82,7 +82,7 @@ Staff Accountant 1994-1996
 - Assisted with audits primarily in the healthcare group for enterprise organizations, small and medium size businesses, and hospitals in Kentucky, Tennessee, and Florida. 
 - Assisted with other audits as needed including mutual fund company in Wilmington, DE, an enterprise real estate holding company in Greenville, SC, and enterprise insurance company in Louisville, KY.
 
-### EDUCATION & PROFESSIONAL CERTIFICATIONS:
+### EDUCATION & PROFESSIONAL CERTIFICATIONS
 
 - Bachelor of Business Administration Degree in Accounting – Eastern Kentucky University
 - Certified Public Accountant
