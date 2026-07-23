@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Mike Campbell | Links</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <style>
+    body {
+      margin: 0;
+      padding: 24px;
+      font-family: system-ui, sans-serif;
+      background: #0f172a;
+      color: #e5e7eb;
+      display: flex;
+      justify-content: center;
+    }
+
+    .shell {
+      width: 100%;
+      max-width: 480px;
+      background: #020617;
+      border: 1px solid #1f2937;
+      border-radius: 20px;
+      padding: 24px;
+    }
+
+    .header {
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      margin-bottom: 20px;
+    }
+
+    .avatar {
+      width: 56px;
+      height: 56px;
+      border-radius: 16px;
+      background: #1e293b;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-weight: 600;
+      font-size: 20px;
+    }
+
+    .title-main {
+      font-size: 20px;
+      font-weight: 600;
+    }
+
+    .title-sub {
+      font-size: 13px;
+      color: #9ca3af;
+      margin-top: 2px;
+    }
+
+    .badge-row {
+      display: flex;
+      gap: 8px;
+      margin-top: 8px;
+      flex-wrap: wrap;
+    }
+
+    .badge {
+      font-size: 11px;
+      padding: 4px 10px;
+      border-radius: 999px;
+      border: 1px solid #334155;
+      color: #9ca3af;
+    }
+
+    .links {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      margin-top: 16px;
+    }
+
+    .link-card {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 12px 14px;
+      border-radius: 14px;
+      border: 1px solid #1f2937;
+      background: #0b1120;
+      text-decoration: none;
+      color: inherit;
+      transition: background 0.15s ease, border-color 0.15s ease;
+    }
+
+    .link-card:hover {
+      background: #1e293b;
+      border-color: #38bdf8;
+    }
+
+    .link-main {
+      display: flex;
+      flex-direction: column;
+      gap: 2px;
+    }
+
+    .link-label {
+      font-size: 13px;
+      font-weight: 500;
+      text-transform: uppercase;
+    }
+
+    .link-url {
+      font-size: 12px;
+      color: #9ca3af;
+    }
+
+    .link-pill {
+      font-size: 11px;
+      padding: 4px 10px;
+      border-radius: 999px;
+      border: 1px solid #38bdf8;
+      color: #38bdf8;
+      white-space: nowrap;
+    }
+
+    .footer {
+      margin-top: 20px;
+      font-size: 11px;
+      color: #9ca3af;
+      text-align: right;
+    }
+  </style>
+</head>
+
+<body>
+  <main class="shell">
+    <header class="header">
+      <div class="avatar">MC</div>
+      <div>
+        <div class="title-main">Mike Campbell, CPA</div>
+        <div class="title-sub">Accounting · Tech · Josephology · Writing</div>
+        <div class="badge-row">
+          <span class="badge">Link hub</span>
+          <span class="badge">mikecampbell.info</span>
+        </div>
+      </div>
+    </header>
+
+    <section class="links">
+
+      <a class="link-card" href="https://mikecampbell-biz.github.io/home/links">
+        <div class="link-main">
+          <span class="link-label">Link hub</span>
+          <span class="link-url">mikecampbell.info</span>
+        </div>
+        <span class="link-pill">Primary hub</span>
+      </a>
+
+      <a class="link-card" href="https://mikecampbell.biz" target="_blank" rel="noopener noreferrer">
+        <div class="link-main">
+          <span class="link-label">Homepage</span>
+          <span class="link-url">mikecampbell.biz</span>
+        </div>
+        <span class="link-pill">Professional Services</span>
+      </a>
+
+      <a class="link-card" href="https://www.linkedin.com/in/mikecampbellcpa" target="_blank" rel="noopener noreferrer">
+        <div class="link-main">
+          <span class="link-label">LinkedIn</span>
+          <span class="link-url">@mikecampbellcpa</span>
+        </div>
+        <span class="link-pill">Professional profile</span>
+      </a>
+
+      <a class="link-card" href="https://github.com/mikecampbell-biz" target="_blank" rel="noopener noreferrer">
+        <div class="link-main">
+          <span class="link-label">GitHub</span>
+          <span class="link-url">@mikecampbell-biz</span>
+        </div>
+        <span class="link-pill">Tech Projects</span>
+      </a>
+
+      <a class="link-card" href="https://mikecampbell.faith" target="_blank" rel="noopener noreferrer">
+        <div class="link-main">
+          <span class="link-label">Josephology & OCIA</span>
+          <span class="link-url">mikecampbell.faith</span>
+        </div>
+        <span class="link-pill">Faith & Theology</span>
+      </a>
+
+    </section>
+
+    <footer class="footer">
+      Built for focus, not noise.
+    </footer>
+  </main>
+</body>
+</html>
