@@ -5,10 +5,9 @@ body {
   font-family: "Segoe UI",Arial, Helvetica, sans-serif;
   color: var(--text);
   line-height: 1.5;
-  border: 1px solid lightgrey;
-  border-radius: 12px;
   padding: 20px 16px 20px;
   }
+
 blockquote {
   border-left: 2px solid #ccc; /* Left border for emphasis */
   padding: 7px 15px;          /* Space inside */
@@ -18,7 +17,7 @@ blockquote {
   }
 h1 {
   text-align: center;
-  border-bottom: 1px solid lightgrey;
+  border-bottom: 1px solid lightgrey
   }
 h2 {
   border-bottom: 1px solid lightgrey;
@@ -41,4 +40,13 @@ h2 {
 .link-card:hover {
   background: lightgrey;
   border-color: black;
+  }
+.box {
+  outline: 1px solid lightgrey;
+  border-radius: 12px
+  }
+@media print {
+    .box {
+      outline: none !important;   /* removed when printing */
+    }
   }
