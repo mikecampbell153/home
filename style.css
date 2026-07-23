@@ -9,6 +9,10 @@ body {
   border-radius: 12px;
   padding: 20px 16px 20px;
   }
+@media print {
+  body {
+    border: none !important;
+  }
 blockquote {
   border-left: 2px solid #ccc; /* Left border for emphasis */
   padding: 7px 15px;          /* Space inside */
