@@ -7,7 +7,12 @@ body {
   line-height: 1.5;
   padding: 20px 16px 20px;
   }
-
+table, td, th {
+  border: 1.0px solid lightgrey;
+  border-collapse:collapse;
+  vertical-align:top;
+  padding:5px
+  }
 blockquote {
   border-left: 2px solid #ccc; /* Left border for emphasis */
   padding: 7px 15px;          /* Space inside */
