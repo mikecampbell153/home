@@ -1,39 +1,76 @@
-<html>
-<style>
-    body {
-        font-family:Calibri;
-        width:90%;
-        margin:auto;
-        }
-    table, td {
-        border: 1.5px solid gray;
-        border-collapse:collapse;
-        vertical-align:top;
-        padding:5px
-        }
-    ol {
-        padding-left:25px;
-        margin:0;
-        }
-    td:nth-child(even), th:nth-child(even) {
-        background-color:whitesmoke;
-        }
-</style>
+<!DOCTYPE html>
+<html lang="en">
 <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta charset="UTF-8">
+  <title>Four Pillars of the Catholic Faith</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Four Pillars, Catholic, Catechesis, The Apostles Creed, The Seven Sacraments, The Ten Commandments, The Our Father Prayer, The Hail Mary Prayer">
+  <style>
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      line-height: 1.6;
+    }
+    .page {
+      max-width: 960px;
+      margin: 0 auto;
+      padding: 15px 15px 15px;
+    }
+    header {
+      border-radius: 14px;
+      border: 1px solid;
+      padding: 15px 15px 15px;
+    }
+    main {
+      margin-top: 5px;
+      display: grid;
+      grid-template-columns: minmax(0, 1.8fr) minmax(0, 1.5fr) minmax(0, 1.5fr) minmax(0, 1.8fr);
+      gap: 15px;
+    }
+    section {
+      border-radius: 14px;
+      border: 1px solid;
+      padding: 15px 15px 15px;
+    }
+    h1 {
+      margin: 0 0 8px;
+      font-size: 1.9rem;
+      letter-spacing: 0.03em;
+      text-align: center
+    }
+    p {
+      margin: 0;
+    }
+    ol {
+      padding-left: 0;
+      margin: 0;
+      list-style-position: inside;
+    }
+    li {
+      margin-bottom: 0px;
+      font-size: 0.92rem;
+    }
+    @media (max-width: 768px) {
+      main {
+        grid-template-columns: minmax(0, 1fr); 
+      }
+    }
+  </style>
 </head>
+
 <body>
-<center><h2><b>The Four Pillars of Catholic Faith</b></h2></center>  
-<table>
-<tr style='text-align:center'>
-    <td width=30%><b>The Apostles’ Creed</b><br>What We Believe</td>
-    <td width=20%><b>Seven Sacraments</b><br>How We Celebrate </td>
-    <td width=25%><b>Ten Commandments</b><br>How We Live </td>
-    <td width=25%><b>Christian Prayer</b><br>How We Pray</td>
-</tr>
-<tr>
-    <td vertical-align:top> 
-    <ol>
+<div class="page">
+<header>
+      <h1>Four Pillars of the Catholic Faith<h1>
+</header>
+</div>
+
+<div class="page">
+  <main>
+    <section id="Creed">
+      <p><b>Apostles Creed</b><p>
+      <ol>
         <li>I believe in God, the Father Almighty, Creator of heaven and earth. 
         <li>I believe in Jesus Christ, his only Son, our Lord.
         <li>He was conceived by the power of the Holy Spirit and born of the Virgin Mary. 
@@ -46,10 +83,12 @@
         <li>the forgiveness of sins, 
         <li>the resurrection of the body,
         <li>and the life everlasting. Amen. 
-    </ol>
-    </td>
-    <td> 
-    <ol>
+      </ol>
+      </p>
+    </section>
+    <section id="Sacraments">
+      <p><b>Sacraments</b></p>
+      <ol>
         <li>Baptism 
         <li>Confirmation 
         <li>Eucharist 
@@ -57,10 +96,11 @@
         <li>Anointing of the Sick 
         <li>Holy Orders 
         <li>Marriage 
-    </ol>
-    </td>
-    <td> 
-    <ol>
+      </ol>
+    </section>
+    <section id="Commandments">
+      <p><b>Commandments</b></p>
+      <ol>
         <li>I am the Lord your God. Do not have strange gods before Me 
         <li>Do not take the Name of the Lord your God in vain 
         <li>Remember the Sabbath by keeping it holy 
@@ -70,12 +110,13 @@
         <li>Do not steal 
         <li>Do not bear false witness 
         <li>Do not covet thy neighbor's wife 
-        <li>Do not covet thy neighbor's goods 
-    </ol>
-    </td>
-    <td>
-    Our Father 
-    <ol>
+        <li>Do not covet thy neighbor's goods
+      </ol>        
+    </section>
+    <section id="Prayer">
+      <p><b>Prayer</b></p>
+      <p><b>Our Father</b></p> 
+      <ol>
         <li>Our Father Who art in heaven
         <li>Hallowed by Thy Name
         <li>Thy Kingdom come, Thy will be done on earth as it is in heaven.
@@ -83,8 +124,8 @@
         <li>Forgive us our trespasses as we forgive those who trespass against us
         <li>Lead us not into temptation
         <li>but deliver us from evil. Amen
-    </ol>
-    Hail Mary
+      </ol>
+      <p><b>Hail Mary</b></p>
     <ol>
         <li>Hail Mary full of grace the Lord is with thee
         <li>Blessed art thou among women and blessed is the fruit of thy womb
@@ -92,16 +133,7 @@
         <li>Holy Mary Mother of God pray for us sinners
         <li>now and at the hour of our death. Amen.
     </ol>
-    </td>
-</tr>
-<tr>
-    <td><center><small>USCCA 1-13  / CCC 1-1065 </td>
-    <td><center><small>USCCA 14-21 / CCC 1066-1690</td>
-    <td><center><small>USCCA 22-34 / CCC 1691-2557 </td>
-    <td><center><small>USCCA 35    / CCC 2558-2865</td>
-</tr>
-</table>
-<br>
-<center>Acts 2:42 They devoted themselves to the apostles’ teaching and fellowship, to the breaking of bread and the prayers.</center>
+    </section>
+  </main>
+</div>
 </body>
-</html>
