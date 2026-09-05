@@ -66,13 +66,19 @@
       }
     }
     @media print {
-    .box {
-      outline: none !important;   /* removed when printing */
-      font-family: Arial, Calibri, Georgia, "Times New Roman", serif;
-      font-size: 11px;   /* print size */
-      line-height: 1.2;
+      .box {
+        outline: none !important;
+        font-family: Arial, Calibri, Georgia, "Times New Roman", serif;
+        font-size: 11px;
+        line-height: 1.2;
+      }
+
+      .page-break {
+        break-before: page;
+        page-break-before: always;
+      }
     }
-  }
+
   </style>
 </head>
 
@@ -98,20 +104,20 @@
     <section id="Day2">
       <p class="center">Day 2 <br> Sky & Waters <br> Roles & Responsibilities</p>
       <ul>
-        <li>Separate <i>roles</i> (pastor vs committee vs bookkeeper)
-        <li>Separate <i>responsibilities</i> (oversight vs operations) 
-        <li>Separate <i>generations</i> (established vs bench)
+        <li>Separate <i>roles</i> 
+        <li>Separate <i>responsibilities</i>  
+        <li>Separate <i>generations</i> 
         <li>Separate <i>performative rituals</i> from <i>governance meetings</i> 
       </ul>
     </section>
     <section id="Day3">
       <p class="center">Day 3 <br> Land & Seas <br> Structure & Documentation</p>
       <ul>
-        <li>Draft By-laws using ArchIndy template
+        <li>Draft By-laws (ArchIndy template)
         <li>Define membership, terms, rotation, and generational renewal
         <li>Define meeting cadence 
-        <li>Define responsibilities (review, oversight, consultation) 
-        <li>Define required documents (budget, financials, checklists)
+        <li>Define responsibilities 
+        <li>Define required documents 
         <li>Define sub-committees and tasks
       </ul>
     </section>
@@ -148,6 +154,7 @@
         <li>Transparency to parishioners
       </ul>
     </section>
+    <div class="page-break"></div>
     <section id="Day7">
       <p class="center">Day 7 <br> Sabbath Rest <br> Monitoring & Reporting</p>
       <ul>
