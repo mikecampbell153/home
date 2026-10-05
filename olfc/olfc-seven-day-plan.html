@@ -30,7 +30,9 @@
     main {
       margin-top: 5px;
       display: grid;
-      grid-template-columns: minmax(0, 1.5fr) minmax(0, 1.5fr) minmax(0, 1.5fr) ;
+      grid-auto-flow: column;
+      grid-template-columns: repeat(3, minmax(0, 1.5fr));
+      grid-template-rows: repeat(4, minmax(0, auto));
       gap: 15px;
     }
     section {
@@ -91,6 +93,9 @@
 
 <div class="page">
   <main>
+    <section id="header">
+      <p class="center">BUILD</p>
+      </section>
     <section id="Day1">
       <p class="center">Day 1: Light <br> Clarity</p>
       <ul>
@@ -122,6 +127,9 @@
         <li>Sub-committees, if any
       </ul>
     </section>
+    <section>
+      <p class="center">FILL</p>
+      </section>
     <section id="Day4">
       <p class="center">Day 4: Sun & Moon <br> Direction</p>
       <ul>
@@ -156,13 +164,25 @@
         <!--<li>Transparency to parishioners-->
       </ul>
     </section>
-    <div class="page-break"></div>
+    <section>
+      <p class="center">REST</p>
+      </section>
     <section id="Day7">
       <p class="center">Day 7: Sabbath Rest <br> Peace</p>
       <ul>
         <li>Provides stable continuity
         <li>Reduces pastor's burdens
       </ul>
+    </section>
+    <section id="Day8">
+      <p class="center">Day 8: Resurrection <br> Renewal</p>
+      <ul>
+        <li>Work of Redemption
+        <li>Renewal and Improvement
+      </ul>
+    </section>
+    <section id="Day9">
+      <p class="center">Day 9: Prayer<br></p>
     </section>
   </main>
 </div>
