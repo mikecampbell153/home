@@ -28,7 +28,7 @@ h2 {
   border-bottom: 1px solid lightgrey;
   }
 ul {
-  padding-inline-start: 0; 
+  padding-inline-start: 1; 
 }
 .centered {
   text-align: center;
