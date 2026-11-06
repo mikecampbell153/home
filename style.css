@@ -35,6 +35,12 @@ ul {
   text-align: center;
   max-width: 500px;
   }
+.links {
+  display: flex;
+      flex-direction: column;
+      gap: 10px;
+      margin-top: 16px; 
+  }
 .link-card {
   display: flex;
   justify-content: center;
@@ -51,6 +57,21 @@ ul {
   background: lightgrey;
   border-color: black;
   }
+.link-main {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+.link-label {
+  font-size: 14px;
+  font-weight: 500;
+  text-transform: uppercase;
+}
+.link-url {
+  font-size: 12px;
+  color: ##A9A9A9;
+  text-transform: lowercase;
+}
 .box {
   outline: 1px solid lightgrey;
   border-radius: 12px
